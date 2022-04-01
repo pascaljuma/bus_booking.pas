@@ -1,0 +1,17 @@
+{
+    "workbench.editor.autoLockGroups": {
+        "workbench.input.interactive": true,
+        "interactive": true,
+        "workbench.editorinputs.searchEditorInput": true,
+        "imagePreview.previewEditor": true,
+        "vscode.markdown.preview.editor": true,
+        "jsProfileVisualizer.cpuprofile.table": true,
+        "default": true,
+        "jupyter-notebook": true,
+        "mainThreadWebview-markdown.preview": true
+    },
+    "files.exclude": {
+        "**/Thumbs.db": false
+    },
+    "editor.wordWrap": "on"
+}
